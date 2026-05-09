@@ -1,0 +1,7 @@
+services:
+  pentol-web:
+    build: .
+    container_name: pentolnona_web
+    restart: always
+    ports:
+      - "3001:80"
