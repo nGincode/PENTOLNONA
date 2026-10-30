@@ -1,3 +1,5 @@
+name: pentolnona
+
 services:
   pentol-web:
     build: .
